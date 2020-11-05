@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Practice</title>
+  <meta name="author" content="wOLE">
+  <meta name="description" content="Just to be better">
+  <meta name="keywords" content="practice,growth">
+      
+      <link rel="stylesheet" href="main.css">
+        
+  </head>
+    
+  <body>
+    
+      <div class="Hero-bg">
+          <section class="top">
+              <header>
+                <img src="practice.jpg">
+                
+                <nav>
+                  <div id="list">
+                    <ul>  
+                      <li><a href="omo.html">Home</a></li>
+                      <li><a href="omo.html">About</a></li>
+                      <li><a href="omo.html">Yaba Left</a></li>
+                    </ul>
+                  
+                   </div>
+                  
+                </nav>
+              
+              </header>
+          
+              <h1><span>Welcome </span>to my practice page!</h1>
+              
+              <p>Today, I am going to embark on a journey into the world of Frontend Development! <br> In doing so, I am going to utilize HTML, CSS &amp; a tiny bit of JavaScript to create an actual website layout that works on multiple devices (yes, it's "Responsive"!).</p>
+              
+          <div class="form-container">
+              <form action="">
+                  <div class="form-left">
+              
+                    <label for="City">Comment:</label>
+                    <input type="text" name="city" id="city">
+                    <p>Example: Sweet</p>
+              
+                  </div>
+                    <input type="button" value="Mind your speesh">
+              
+              </form>
+              
+                  </div>
+          
+              </section>
+    
+         </div>
+               
+            <section class="Authentic">
+              <div class="right-col">
+                <h2>Fantastic. Sevestic. Bombastic.</h2>
+                  <p>Bonjour Le masi</p>
+              </div>
+              <img src="burger.jpg" alt="welcome food">
+                
+      
+            </section>
+      
+  </body>
+</html>
